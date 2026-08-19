@@ -7,7 +7,6 @@
 <details>
 <summary><b><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg" width="20" height="14" alt="Català"> Clic per veure la versió en Català</b></summary>
 
-### Versió en Català
 
 Integració personalitzada per a **Home Assistant** que connecta amb la plataforma **W-City** per a la gestió del servei de recollida de residus **Porta a Porta (PaP)**.
 
@@ -62,9 +61,6 @@ Integración personalizada para **Home Assistant** que conecta con la plataforma
 > 📍 **Soporte actual:** Inicialmente compatible con la **Mancomunitat Penedès Garraf** (servicio *"Obre la Porta"* - `obrelaporta.wcity.app`). Pensado para ir añadiendo soporte a otros municipios o mancomunidades que utilicen la plataforma W-City.
 
 ---
-
-
-### Versión en Español
    
 ## 📊 Entidades Generadas
 
