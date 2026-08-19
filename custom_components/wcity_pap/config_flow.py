@@ -9,7 +9,7 @@ from .const import DOMAIN, URL_BASE
 _LOGGER = logging.getLogger(__name__)
 
 # Token extraído de la URL y del formulario de login
-LOGIN_TOKEN = "YTQ4NGU1MWFmYTFiNjk5ZTFhMDc3MzQ5NTM1NTg5MTk4Y2ZjMWEyNDJkMzJhNTJhYWMyMmRkNjU0NmEyNjY0MQ=="
+LOGIN_TOKEN = "NzMwMDA0ZjFjOGMyMGIyOGJkOWM1Njc2NmZmZDIxYzBkYmQzM2M3NGZhNjQwZGRlODUzZWJjMzZmNDlhMWI0Mw=="
 
 class InvalidAuth(Exception):
     """Excepción lanzada cuando las credenciales son incorrectas."""
