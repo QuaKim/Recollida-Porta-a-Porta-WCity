@@ -6,8 +6,8 @@ from .const import URL_BASE, CONF_USERNAME, CONF_PASSWORD
 
 _LOGGER = logging.getLogger(__name__)
 
-LOGIN_TOKEN = "YTQ4NGU1MWFmYTFiNjk5ZTFhMDc3MzQ5NTM1NTg5MTk4Y2ZjMWEyNDJkMzJhNTJhYWMyMmRkNjU0NmEyNjY0MQ=="
-TOKEN_PWA = "MWMxNDNmNTM3YjQ3NDhkNzgyY2RmYWZmODZhYmFmYmU2NGNiMGU4ZmY1MzE1MjhjYWQ2ZDExZGQ1Njg0NWRkZQ=="
+LOGIN_TOKEN = "NzMwMDA0ZjFjOGMyMGIyOGJkOWM1Njc2NmZmZDIxYzBkYmQzM2M3NGZhNjQwZGRlODUzZWJjMzZmNDlhMWI0Mw=="
+TOKEN_PWA = "NzMwMDA0ZjFjOGMyMGIyOGJkOWM1Njc2NmZmZDIxYzBkYmQzM2M3NGZhNjQwZGRlODUzZWJjMzZmNDlhMWI0Mw=="
 
 class WCityCoordinator(DataUpdateCoordinator):
     """Coordinador para gestionar la sesión y recopilar los datos de WCity."""
