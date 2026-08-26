@@ -10,7 +10,17 @@
 
 Integració personalitzada per a **Home Assistant** que connecta amb la plataforma **W-City** per a la gestió del servei de recollida de residus **Porta a Porta (PaP)**.
 
-> 📍 **Suport actual:** Inicialment compatible amb la **Mancomunitat Penedès Garraf** (servei *"Obre la Porta"* - `obrelaporta.wcity.app`). Pensat per anar afegint suport a altres municipis o mancomunitats que utilitzin la plataforma W-City.
+### 🏙️ Suport actual
+
+Compatible amb els serveis WCity de les següents entitats i municipis:
+
+- **Mancomunitat Penedès-Garraf** (*"Obre la Porta"*)
+- **Consell Comarcal del Gironès** (*"Gironès"*)
+- **Mancomunitat La Plana** (*"Osona Tria"*)
+- **Matadepera** (*"ResidusMTDP"*)
+- **Calaf** (*"Porta a Porta Calaf"*)
+- **Manlleu** (*"Sobren Motius"*)
+
 
 ---
 
@@ -58,7 +68,16 @@ La integració proporciona les següents entitats principals:
 <summary><b><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="14" alt="Català"> Clic para versión en Español</b></summary>
 Integración personalizada para **Home Assistant** que conecta con la plataforma **W-City** para la gestión del servicio de recogida de residuos **Porta a Porta (PaP)**.
 
-> 📍 **Soporte actual:** Inicialmente compatible con la **Mancomunitat Penedès Garraf** (servicio *"Obre la Porta"* - `obrelaporta.wcity.app`). Pensado para ir añadiendo soporte a otros municipios o mancomunidades que utilicen la plataforma W-City.
+### 🏙️ Soporte actual
+
+Compatible con los servicios WCity de las siguientes entidades y municipios:
+
+- **Mancomunitat Penedès-Garraf** (*"Obre la Porta"*)
+- **Consell Comarcal del Gironès** (*"Gironès"*)
+- **Mancomunitat La Plana** (*"Osona Tria"*)
+- **Matadepera** (*"ResidusMTDP"*)
+- **Calaf** (*"Porta a Porta Calaf"*)
+- **Manlleu** (*"Sobren Motius"*)
 
 ---
    
